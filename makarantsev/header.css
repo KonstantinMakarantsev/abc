@@ -1,0 +1,17 @@
+.bgimage {
+  display: flex;
+  width: 1920px;
+  height: 950px;
+}
+.header__logo {
+  display: flex;
+  width: 216px;
+  height: 52px;
+  margin-top: 25px;
+  margin-left: 852px;
+  background-color: aqua;
+}
+.header__left {
+  display: flex;
+  gap: 40px;
+}
