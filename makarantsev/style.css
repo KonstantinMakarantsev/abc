@@ -1,0 +1,10 @@
+.text1 {
+  width: 730px;
+  height: 49px;
+  display: flex;
+  margin-top: 600px;
+  margin-left: 595px;
+  font-family: Noto Serif;
+  font-size: 36px;
+  justify-content: center;
+}
