@@ -1,5 +1,4 @@
 a {
-  text-decoration: none;
   color: white;
 }
 .header__left {
@@ -31,4 +30,12 @@ a {
 .img3 {
   width: 16.29px;
   height: 14.57px;
+}
+ul {
+  font-size: 14px;
+  font-family: Gilroy;
+  gap: 10px;
+}
+.header {
+  position: relative;
 }
